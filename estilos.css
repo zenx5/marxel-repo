@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+.parrafo-1{
+    color: green;
+}
+
+.parrafo-2 {
+    color: pink;
+}
+
+.parrafo-3{
+    color: lightblue;
+}
+
+
+button {
+    padding:5px 30px;
+    font-weight: bold;
+}
